@@ -1,0 +1,5 @@
+Before running this script, 
+
+Set parameters to $rootPath - Local data directory
+
+Local data directory, Powershell will get all folders and sub folders from this directory.  
